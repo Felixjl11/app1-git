@@ -11,7 +11,7 @@ version = "1.0.0">
 Aplicacion que nos muestra la informacion referente al dispositivo movil
 </description>
 
-<author href="https://build.phonegap.com" email="felixjuarezlimonfjl2002@gmail.com">
+<author href="http://build.phonegap.com" email="felixjuarezlimonfjl2002@gmail.com">
 Felix Juarez Limon 
 </author>
 
@@ -34,6 +34,6 @@ Felix Juarez Limon
 
 <!--Colocar icono app-->
 
-<icon src="res/android/mdpi.png"/>
+<icon src="res/android/mdpi.png" />
 
 </widget>
